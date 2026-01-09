@@ -8,7 +8,7 @@
 *Arquitetura sólida, código limpo e evolução contínua*
 
 [![Website](https://img.shields.io/badge/Website-Wosch%20Software-blue?style=for-the-badge)](https://woschsoftware.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Entrar%20em%20Contato-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5541998984321)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Entrar%20em%20Contato-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5541998998431?text=Ol%C3%A1%2C%20tudo%20bem%3F%20Estava%20dando%20uma%20olhada%20no%20seu%20site%2C%20gostaria%20de%20saber%20mais%20sobre)
 [![Email](https://img.shields.io/badge/Email-Contato-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brayanwosch@gmail.com)
 
 ![Wosch Software Logo](img/imgs_wosch/iconeWS.png)
@@ -113,7 +113,7 @@ Não desenvolvemos apenas sistemas. **Assumimos a responsabilidade técnica comp
 
 ### Entre em contato conosco!
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-+55%20(41)%2099898--4321-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5541998984321)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-+55%20(41)%2099899--8431-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5541998998431?text=Ol%C3%A1%2C%20tudo%20bem%3F%20Estava%20dando%20uma%20olhada%20no%20seu%20site%2C%20gostaria%20de%20saber%20mais%20sobre)
 [![Email](https://img.shields.io/badge/Email-brayanwosch%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brayanwosch@gmail.com)
 
 📍 **Localização:** Curitiba, PR - Brasil
@@ -160,7 +160,7 @@ Não desenvolvemos apenas sistemas. **Assumimos a responsabilidade técnica comp
 
 **Vamos analisar seu projeto e definir a melhor estratégia técnica.**
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Entrar%20em%20Contato-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&logoWidth=20)](https://wa.me/5541998984321)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Entrar%20em%20Contato-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&logoWidth=20)](https://wa.me/5541998998431?text=Ol%C3%A1%2C%20tudo%20bem%3F%20Estava%20dando%20uma%20olhada%20no%20seu%20site%2C%20gostaria%20de%20saber%20mais%20sobre)
 
 *Arquitetura, tecnologias e metodologia alinhadas às necessidades do seu negócio.*
 

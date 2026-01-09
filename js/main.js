@@ -94,9 +94,23 @@ $(function () {
         }, 400);
     });
     /***************************
-
+    
+    whatsapp links - garantir que abram corretamente
+    
+    ***************************/
+    $(document).on('click', 'a[href*="wa.me"], a[href*="whatsapp.com"]', function(e) {
+        var href = $(this).attr('href');
+        if (href) {
+            window.open(href, '_blank', 'noopener,noreferrer');
+            e.preventDefault();
+            return false;
+        }
+    });
+    
+    /***************************
+    
     append
-
+    
     ***************************/
     $(document).ready(function () {
         $(".mil-arrow").clone().appendTo(".mil-arrow-place");
